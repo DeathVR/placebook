@@ -41323,7 +41323,7 @@ case 2:return A.O(o,r)}})
 return A.Q($async$pE,r)}}
 A.a00.prototype={}
 A.oV.prototype={
-glP(){return"back.jpg"},
+glP(){return"assets/images/back.jpg"},
 a2j(a){var s,r={},q=a.a
 if(q==null)q=$.Kx()
 r.a=r.b=null
